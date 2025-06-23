@@ -42,7 +42,7 @@ This project explores and visualizes insights from a dataset of Netflix TV shows
 ## 📥 Dataset Source
 
 - Original dataset from Kaggle:  
-  [Netflix Titles - Kaggle Dataset]([https://www.kaggle.com/datasets/shivamb/netflix-shows](https://www.kaggle.com/datasets/shivamb/netflix-shows))
+  [Netflix Titles - Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 
 ## 👨‍💻 Author

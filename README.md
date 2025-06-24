@@ -29,7 +29,7 @@ This project explores and visualizes insights from a dataset of Netflix TV shows
 
 ## 🖼️ Dashboard Preview
 
-![Netflix Dashboard Preview](screenshots/netflix_dashboard.png)
+![Netflix Dashboard Preview](Screenshot/Netflix_dashboard_tableau.png)
 
 ## 📂 Files
 

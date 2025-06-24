@@ -49,7 +49,7 @@ This project explores and visualizes insights from a dataset of Netflix TV shows
 
 **Hemant Mahajan**  
 🎓 MSc Data Science 
-📫 [LinkedIn]([https//www.linkedin.com/in/hemant-mahajan-3648642a0]) | ✉️ hemantmahajan1611@gmail.com
+📫 [LinkedIn](https//www.linkedin.com/in/hemant-mahajan-3648642a0) | ✉️ hemantmahajan1611@gmail.com
 
 ---
 
